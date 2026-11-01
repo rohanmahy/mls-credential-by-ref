@@ -47,7 +47,7 @@ This extension allows MLS credentials to be included by using a hash reference o
 # Introduction {#intro}
 
 This new credential type allows an MLS LeafNode to contain a hash reference to another MLS credential.
-This could be be communicated out-of-band or in another MLS group.
+The value of the referenced credential could be be communicated out-of-band or in another MLS group.
 
 
 # Conventions and Definitions
